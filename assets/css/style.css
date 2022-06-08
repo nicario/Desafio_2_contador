@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+
+.numeros {
+  font-size: 70px;
+}
+
+.botao {
+  border: none;
+  border-radius: 5px;
+  background-color: orange;
+  padding: 10px 20px;
+}
+
+.botao:hover {
+  background-color: #ffc107;
+  cursor: pointer;
+}
+
+.botao:active {
+  background-color: #ffffff;
+  color: orange;
+}
